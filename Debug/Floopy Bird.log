@@ -1,0 +1,19 @@
+﻿Build started 2/11/2017 3:05:58 PM.
+     1>Project "G:\Visual Studio\project\Floopy Bird\Floopy Bird\Floopy Bird.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         G:\Visual Studio\VS\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt iMain.cpp
+         iMain.cpp
+     1>g:\visual studio\project\floopy bird\floopy bird\imain.cpp(78): warning C4101: 'Gravity_Changer' : unreferenced local variable
+     1>g:\visual studio\project\floopy bird\floopy bird\imain.cpp(75): warning C4101: 'Piller_change' : unreferenced local variable
+     1>g:\visual studio\project\floopy bird\floopy bird\imain.cpp(76): warning C4101: 'Piller_speed' : unreferenced local variable
+     1>g:\visual studio\project\floopy bird\floopy bird\imain.cpp(77): warning C4101: 'Collition' : unreferenced local variable
+     1>g:\visual studio\project\floopy bird\floopy bird\imain.cpp(74): warning C4101: 'Back_change' : unreferenced local variable
+     1>g:\visual studio\project\floopy bird\floopy bird\imain.cpp(79): warning C4101: 'Upperforce_Changer' : unreferenced local variable
+       Link:
+         G:\Visual Studio\VS\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\Visual Studio\project\Floopy Bird\Debug\Floopy Bird.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:\Visual Studio\project\Floopy Bird\Debug\Floopy Bird.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\Visual Studio\project\Floopy Bird\Debug\Floopy Bird.lib" /MACHINE:X86 Debug\iMain.obj
+         Floopy Bird.vcxproj -> G:\Visual Studio\project\Floopy Bird\Debug\Floopy Bird.exe
+     1>Done Building Project "G:\Visual Studio\project\Floopy Bird\Floopy Bird\Floopy Bird.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.16
